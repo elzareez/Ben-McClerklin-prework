@@ -1,0 +1,28 @@
+section{
+    color:black;
+    text-align: center;
+}
+#Nav{
+    background: gray;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#Left{
+    background: blue;
+    width: 50%;
+    float: left;
+    padding: 50px;
+}
+#Right{
+    background: red;
+    padding: 50px;
+    width: 20%;
+    float: right;
+
+}
+#footer{
+    position: absolute;
+    background: green;
+    width: 100%;
+    bottom: 0;
+}
