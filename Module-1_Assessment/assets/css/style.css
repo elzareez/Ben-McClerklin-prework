@@ -1,0 +1,87 @@
+header{
+    position: relative;
+    height: 150px;
+    background: #ffffff;
+}
+h1{
+    width: 250px;
+    color: white;
+    background-color: #4aaaa5;
+    text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 20px;
+    position: absolute;
+    bottom: 0px;
+    left: 20%;
+    border: 1px #cccccc;
+
+}
+#pages{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+    position: absolute;
+    right: 20%;
+    top: 50%;
+    font-weight: 200;
+    color: #777777;
+
+}
+#background{
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background-image: url("../images/bush.png");
+}
+/* #bg{
+    position: relative;
+    width: 100%;
+    height: 500px;
+}*/
+#container{
+    position: relative;
+    top: 30px;
+    left: 20%;
+    right: 20%;
+    width: 1000px;
+    height: 550px;
+    
+    background: #ffffff;
+}
+
+h2{
+    border: 1px white;
+    background-color:#ffffff;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 20px;
+    font-weight: bold;
+}
+#profilepic{
+    float: left;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    
+}
+#p1{
+    padding-left: 30px;
+    padding-right: 20px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+#gsquare{
+    position: relative;
+    bottom:1px;
+    width: 100%;
+    height: 5px;
+    background-color: green;
+}
+footer{
+
+    text-align: center;
+    background-color: #666666;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
