@@ -1,17 +1,16 @@
 header{
     position: relative;
-    height: 150px;
+    height: 50px;
     background: #ffffff;
 }
 h1{
-    width: 250px;
+    width: 350px;
     color: white;
     background-color: #4aaaa5;
     text-align: center;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    padding: 20px;
     position: absolute;
-    bottom: 0px;
+    bottom: 0%;
     left: 20%;
     border: 1px #cccccc;
 
@@ -29,7 +28,7 @@ h1{
 #background{
     position: relative;
     width: 100%;
-    height: 600px;
+    height: 680px;
     background-image: url("../images/bush.png");
 }
 /* #bg{
@@ -43,7 +42,7 @@ h1{
     left: 20%;
     right: 20%;
     width: 1000px;
-    height: 550px;
+    height: 620px;
     
     background: #ffffff;
 }
@@ -140,8 +139,8 @@ button{
 }
 #pic3{
     position: relative;
-    width: 177px;
-    height: 100px;
+    width: 100%;
+    height: 150px;
     background-image: url("../images/p3.jfif");
 }
 #pic4{
@@ -175,4 +174,6 @@ button{
     padding-top: 10px;
     color: #ffffff;
 }
+
+
 
