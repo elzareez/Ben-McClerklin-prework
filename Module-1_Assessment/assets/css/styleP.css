@@ -68,6 +68,43 @@ footer{
     border-top:3px solid #4aaaa5;
     text-align: center;
 }
+/*Contact code*/
+/*Body Text*/
+#pContact{
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    padding-left:20px;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom:0px;
+}
+/*Body boxes*/
+#b1{
+    width:100%;
+    padding-left:20px;
+    padding-right:20px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    border: 1px solid #dddddd;
+    margin-bottom:20px;
+}
+#b2{
+    width:100%;
+    height: 100px;
+    padding-left:20px;
+    padding-right:20px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    border: 1px solid #dddddd;
+    margin-bottom:20px;
+}
+button{
+    margin-bottom: 20px;
+}
 /*Portfolio Code*/
 #pic1{
     position: relative;
