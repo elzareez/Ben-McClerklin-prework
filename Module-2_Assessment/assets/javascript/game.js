@@ -57,9 +57,10 @@ let checkFunc = function(guessLetter){
 
 //Won/Lose function
 let winLose = function(){
-    if(correctLetter.join() === currentWord){
+    if(correctLetter.join() === letterSplit.join()){
         wins++;
-        document.getElementById("wins").innerText = " " + wins;
+        document.getElementById("wins").innerText = "Wins: " + wins;
+        reset();
     }
     else if(guessRem === 0){
         reset();
